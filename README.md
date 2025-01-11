@@ -1,3 +1,3 @@
 # Comparaison-d-approches-algorithmiques
 
-Contributeur : Pauline Vu
+Contributeur : Sophie DONG, Pauline Vu
